@@ -3,25 +3,25 @@ This is the project in part of curriculam in Bsc in data Science at IIt Madras. 
 
 **Columns Description**
 
--RecipeNumber: Placement of the recipe on the top 100 recipes list
+- RecipeNumber: Placement of the recipe on the top 100 recipes list
 
--RecipeCode: Unique ID of the recipe used by the site
+- RecipeCode: Unique ID of the recipe used by the site
 
--RecipeName: Name of the recipe the comment was posted on
+- RecipeName: Name of the recipe the comment was posted on
 
--CommentID: Unique ID of the comment
+- CommentID: Unique ID of the comment
 
--UserID: Unique ID of the user who left the comment
+- UserID: Unique ID of the user who left the comment
 
--UserName: Name of the user
+- UserName: Name of the user
 
--UserReputation: Internal score of the site, roughly quantifying the past behavior of the user
+- UserReputation: Internal score of the site, roughly quantifying the past behavior of the user
 
--CreationTimestamp: Time at which the comment was posted as a Unix timestamp
+- CreationTimestamp: Time at which the comment was posted as a Unix timestamp
 
--ReplyCount: Number of replies to the comment
+- ReplyCount: Number of replies to the comment
 
--ThumbsUpCount: Number of up-votes the comment has received
+- ThumbsUpCount: Number of up-votes the comment has received
 
 - ThumbsDownCount: Number of down-votes the comment has received
 
