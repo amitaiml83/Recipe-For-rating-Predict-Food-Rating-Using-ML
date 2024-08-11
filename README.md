@@ -30,3 +30,24 @@ This is the project in part of curriculam in Bsc in data Science at IIt Madras. 
 - BestScore: Score of the comment, likely used by the site to help determine the order comments appear in
 
 - Recipe_Review: Text content of the comment
+
+# 🚀 Project Overview 🚀
+
+**In my latest project, I tackled the challenge of predicting user ratings of food in restaurants. Leveraging a comprehensive workflow, I conducted a thorough data overview, delved into exploratory data analysis (EDA), and rigorously cleaned and preprocessed the dataset.**
+
+- Comprehensive Workflow: Carried out a detailed project workflow that included data overview, exploratory data analysis (EDA), and rigorous data cleaning and preprocessing.
+
+- Data Preprocessing: Applied Simple Imputer for filling missing values. Used StandardScaler and MinMaxScaler for scaling numerical data. Leveraged Pipeline and Column Transformer API for efficient processing.
+
+- Categorical Data Transformation: Utilized TF-IDF Vectorizer and CountVectorizer for effective categorical data transformation.
+
+- Data Balancing: Implemented SMOTE API to balance the dataset. 
+
+# Model Development: Created a classification model utilizing Logistic Regression, SVM, Perceptron, and ensemble methods, and Xgboost achieving up to 78.9% accuracy, with peak performance close to 80%.
+
+# Performance Optimization: Applied feature engineering and hyperparameter tuning techniques to maximize model accuracy.
+
+# Achievement: 
+Secured 29th rank in a Kaggle competition
+
+# Skills: Machine Learning · Scikit-Learn · Machine Learning Algorithms · Supervised Learning · Unsupervised Learning · XGBoost · Random Forest · XGBClassfier
