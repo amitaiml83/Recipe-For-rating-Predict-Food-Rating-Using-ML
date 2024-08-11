@@ -43,11 +43,14 @@ This is the project in part of curriculam in Bsc in data Science at IIt Madras. 
 
 - Data Balancing: Implemented SMOTE API to balance the dataset. 
 
-# Model Development: Created a classification model utilizing Logistic Regression, SVM, Perceptron, and ensemble methods, and Xgboost achieving up to 78.9% accuracy, with peak performance close to 80%.
+# Model Development: 
+Created a classification model utilizing Logistic Regression, SVM, Perceptron, and ensemble methods, and Xgboost achieving up to 78.9% accuracy, with peak performance close to 80%.
 
-# Performance Optimization: Applied feature engineering and hyperparameter tuning techniques to maximize model accuracy.
+# Performance Optimization: 
+Applied feature engineering and hyperparameter tuning techniques to maximize model accuracy.
 
 # Achievement: 
 Secured 29th rank in a Kaggle competition
 
 # Skills: Machine Learning · Scikit-Learn · Machine Learning Algorithms · Supervised Learning · Unsupervised Learning · XGBoost · Random Forest · XGBClassfier
+
