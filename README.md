@@ -50,15 +50,15 @@ Created a classification model utilizing Logistic Regression, SVM, Perceptron, a
 Applied feature engineering and hyperparameter tuning techniques to maximize model accuracy.
 
 # Models Evaluated:
-1. Logistic regression
+1. **Logistic regression**
    - Accuracy 78.9%
-2. Support Vector Classifier (SVC)
+2. **Support Vector Classifier (SVC)**
    - Accuracy 78.6%
-3. XGB Classifier
+3. **XGB Classifier**
    - Accuracy 78.02%
-4. Random Forest
+4. **Random Forest**
    - Accuracy 77.2%
-5. K-Nearest Neighbors (KNN)
+5.** K-Nearest Neighbors (KNN)**
    - Accurcay 77.5%
 
 # Achievement: 
