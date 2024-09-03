@@ -60,9 +60,17 @@ Applied feature engineering and hyperparameter tuning techniques to maximize mod
    - Accuracy 77.2%
 5.** K-Nearest Neighbors (KNN)**
    - Accurcay 77.5%
+# Technologies Used
+   - Python: The primary programming language used for data manipulation and model training.
+   - Jupyter Notebook: For interactive coding and documenting the workflow.
+   - Pandas: For data loading and preprocessing.
+   - Scikit-learn: For model training and evaluation.
+   - Seaborn and Matplotlib: For data visualization and plotting model comparison graphs.
 
 # Achievement: 
 Secured 29th rank in a Kaggle competition
+# Contact Information
+- **Name:** Amit Kumar
+- **LinkedIn:** [Amit Kumar](https://www.linkedin.com/in/amit-kumar83/)
 
-# Skills: Machine Learning · Scikit-Learn · Machine Learning Algorithms · Supervised Learning · Unsupervised Learning · XGBoost · Random Forest · XGBClassfier
 
