@@ -1,5 +1,5 @@
 # Recipe-For-rating-Predict-Food-Rating-Using-ML
-This is the project in part of curriculam in Bsc in data Science at IIt Madras. it is comes under the Machien Learning Course and Machine Learning techniques Course. in this project  we have to build the model which can predict the rating according to user behavoiurs.
+This is the project in part of curriculam in Bsc in data Science at IIT Madras. it is comes under the Machien Learning Course and Machine Learning techniques Course. in this project  we have to build the model which can predict the rating according to user behavoiurs.
 
 **Columns Description**
 
@@ -48,6 +48,18 @@ Created a classification model utilizing Logistic Regression, SVM, Perceptron, a
 
 # Performance Optimization: 
 Applied feature engineering and hyperparameter tuning techniques to maximize model accuracy.
+
+# Models Evaluated:
+1. Logistic regression
+   - Accuracy 78.9%
+2. Support Vector Classifier (SVC)
+   - Accuracy 78.6%
+3. XGB Classifier
+   - Accuracy 78.02%
+4. Random Forest
+   - Accuracy 77.2%
+5. K-Nearest Neighbors (KNN)
+   - Accurcay 77.5%
 
 # Achievement: 
 Secured 29th rank in a Kaggle competition
