@@ -41,7 +41,12 @@ This is the project in part of curriculam in Bsc in data Science at IIT Madras. 
 
 - Categorical Data Transformation: Utilized TF-IDF Vectorizer and CountVectorizer for effective categorical data transformation.
 
-- Data Balancing: Implemented SMOTE API to balance the dataset. 
+- Data Balancing: Implemented SMOTE API to balance the dataset.
+# Project Structure
+1. Jupyter Notebook
+   - Contains the entire workflow of the project, including data loading, preprocessing, model training, evaluation, and visualization of results.
+   - The notebook is available in **predict_food_rating.ipynb**
+  
 
 # Model Development: 
 Created a classification model utilizing Logistic Regression, SVM, Perceptron, and ensemble methods, and Xgboost achieving up to 78.9% accuracy, with peak performance close to 80%.
@@ -72,5 +77,4 @@ Secured 29th rank in a Kaggle competition
 # Contact Information
 - **Name:** Amit Kumar
 - **LinkedIn:** [Amit Kumar](https://www.linkedin.com/in/amit-kumar83/)
-
-
+Feel free to reach out for any queries or further information regarding the project.
